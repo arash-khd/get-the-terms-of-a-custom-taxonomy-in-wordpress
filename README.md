@@ -1,5 +1,5 @@
 # get-the-terms-of-a-custom-taxonomy-in-wordpress
-get the terms of a custom taxonomy in wordpress and order count and limit with number (post per page)
+get all terms of a custom taxonomy in wordpress and order count and limit with number (post per page)
 
 as defualt when we get slug with get terms function the slug in not work correctly we should work
 like this to get a correct link
